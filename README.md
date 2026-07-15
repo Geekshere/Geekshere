@@ -1,6 +1,6 @@
 I no longer use github for my personal projects
 
-Go to https://codeberg.org/Geekshere
+Find me on Codeberg: https://codeberg.org/Geekshere
 More information why I don't like Github, specially for open source:
 
     https://sfconservancy.org/GiveUpGitHub/
