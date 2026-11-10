@@ -1,4 +1,4 @@
-I no longer use github for my personal projects
+I don't always use github for my personal projects
 
 Find me on Codeberg: https://codeberg.org/Geekshere
 More information why I don't like Github, specially for open source:
